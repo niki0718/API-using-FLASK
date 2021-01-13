@@ -1,6 +1,6 @@
 # Using flask to make an api
 # import necessary libraries and functions
-from flask import Flask, jsonify, request
+
 
 from flask import request, url_for
 from flask_api import FlaskAPI, status, exceptions
